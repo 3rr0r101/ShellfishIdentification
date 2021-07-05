@@ -1,0 +1,13 @@
+com/example/shellfishidentification/WebApp.java
+ com.example.shellfishidentification.WebApp
+ com.example.shellfishidentification.WebApp$1
+com/example/shellfishidentification/ml/AugShellMobilenet.java
+ com.example.shellfishidentification.ml.AugShellMobilenet
+ com.example.shellfishidentification.ml.AugShellMobilenet$1
+ com.example.shellfishidentification.ml.AugShellMobilenet$Outputs
+com/example/shellfishidentification/BuildConfig.java
+ com.example.shellfishidentification.BuildConfig
+com/example/shellfishidentification/ml/CnnAugShellV1.java
+ com.example.shellfishidentification.ml.CnnAugShellV1
+ com.example.shellfishidentification.ml.CnnAugShellV1$1
+ com.example.shellfishidentification.ml.CnnAugShellV1$Outputs

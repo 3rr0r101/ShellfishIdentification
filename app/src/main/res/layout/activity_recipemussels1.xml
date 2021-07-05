@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    tools:context=".Recipemussels1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="411dp"
+            android:layout_height="154dp"
+            app:srcCompat="@drawable/mrf"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="414dp"
+            android:layout_height="466dp"
+            android:text="GOAN MUSSELS RAVA FRY\n\n
+    Goan mussels rava fry is a popular delicacy found in most beach shacks and restaurants all over goa.\n
+    Ingredients:\n
+     Measuring cup used 1 cup+250ml, 1tsp=5ml\n
+     About 15 cleaned mussels\n
+     2tbsp recheado masala\n
+     1 egg\n
+     Pinch of salt\n
+     Rava/semolina, as required for coating\n\n
+    Step1\n
+    If you have to clean the mussels wash and clean the mussels well. Discard any that have cracked shells. Heat a
+    pot of water, transfer the mussels to the pot and boil until all the mussels have opened up. keep transferring
+    the mussels that have opened to a bowl.
+    Discard any that haven’t opened. Discard the water. open the shell, and remove the black string also known as
+    the beard. Using a spoon, scoop out the flesh and transfer it to a bowl. It is ready to be used.\n\n
+    Step2\n
+    Add the recheado masala and a tiny pinch of salt, and mix well to coat the mussels with the masala. Marinate
+    it for about half an hour.\n\n
+    Step3\n
+    Just before frying, add a beaten egg mix well.\n\n
+    Step4\n
+    Heat oil in a heavy bottomed skillet over medium heat. coat the marinated mussels with rava and shallow fry
+    on medium heat, about 2-3 minutes per side serve hot with a salad of your choice.
+    The mussels get marinated in spicy and tangy goan recheado masala paste which is then coated with an egg
+    and semolina. It is shallow fried until it is crunchy and beautiful golden brown color. you may even deep fry if
+    you wish to."
+
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/ntm2"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="Next"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btc3"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="Back"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

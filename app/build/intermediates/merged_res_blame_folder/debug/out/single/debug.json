@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_recipe.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\menu\\menu_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_timer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_listui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\listui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\whisk.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cameraui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\cameraui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainpage.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\mainpage.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tenstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\tenstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nutrients2.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_nutrients2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipeclams2.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_recipeclams2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipeclams3.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_recipeclams3.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cameraui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\cameraui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\whisk.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hdroff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\hdroff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button2.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\whisk.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cameraui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\cameraui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_timer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\tstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hdroff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\hdroff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flashoff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\tstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mainpage.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\mainpage.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\font_regular.otf.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\font\\regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flashoff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flash.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cameraui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\cameraui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_flashoff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tenstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\tenstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mainpage.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\mainpage.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flashalways.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\flashalways.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hdroff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\hdroff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flash.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipemussels1.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_recipemussels1.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flashoff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\font_light.otf.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\font\\light.otf"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\listui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipeclams1.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_recipeclams1.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tenstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\tenstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tenstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\tenstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tenstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\tenstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_capture_n_prediction.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_image_capture_n_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web_app.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_web_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\tstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\tstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clams.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\clams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipemussels3.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_recipemussels3.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_listui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\listui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\listui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_timer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flashoff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hdroff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\hdroff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_timer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flashalways.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\flashalways.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\tstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\tstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mainpage.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\mainpage.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flashalways.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\flashalways.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipemussels2.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_recipemussels2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cameraui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\cameraui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_listui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\listui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mainpage.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\mainpage.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nutrients.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_nutrients.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\whisk.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flashalways.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\flashalways.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\font_extralight.otf.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\font\\extralight.otf"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flashoff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_timer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_timer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hdroff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\hdroff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_h_bclams.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_h_bclams.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxxhdpi\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_h_b_mussels.xml.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\layout\\activity_h_b_mussels.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nutrients.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\nutrients.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\chb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mainpage.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\mainpage.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_flashalways.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\flashalways.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flashalways.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\flashalways.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mrf.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\mrf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\mc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_listui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\listui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tenstimer.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\tenstimer.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cc.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hdroff.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\hdroff.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mhb.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\mhb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\cp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flash.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\whisk.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cameraui.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\cameraui.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flash.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-mdpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_flash.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-ldpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mussels.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xxhdpi\\mussels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\whisk.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flash.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mp.jpg.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-hdpi\\mp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_whisk.png.flat",
+        "source": "C:\\Users\\gaura\\OneDrive\\Desktop\\Study\\BE_Project\\ShellfishIdentification 2\\app\\src\\main\\res\\drawable-xhdpi\\whisk.png"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    tools:context=".recipeclams1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="409dp"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/clams"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="413dp"
+            android:layout_height="432dp"
+            android:text="CLAMS DRY(Tisrayanche Suke)\n\n
+    INGREDIENTS:\n
+     500 grams Clams\n
+     1/2 cup Fresh coconut , grated or dry coconut\n
+     1 Onion , finely chopped\n
+     2 Green Chillies , slit into halves\n
+     4 Kokum (Malabar Tamarind)\n
+     1 teaspoon Red Chilli powder\n
+     1 teaspoon Turmeric powder (Haldi)\n
+     Salt, to taste\n
+     Water, as required\n
+    Step1\n
+    To begin making the Tisrayanche Suke recipe, first we will clean the clams. First open them into halves using a
+    sharp knife. Then with a knife, lift all the flesh from one shell, and drop it in the other and discard the shell with
+    no flesh. Repeat for all the remaining clams. Wash them well for 3 to 4 times.\n\n
+    Step2\n
+    Apply turmeric powder and keep it aside for 10 minutes. In a heavy bottom vessel, add these clams, and cook
+    on medium high heat, uncovered for 5 minutes, mixing in between. If you feel the clams are too dry, then add
+    a tablespoon of water. Usually you don’t require water for this.\n\n
+    Step3\n
+    Now add coconut, chopped onions, slit chillies, red chilli powder. Mix well."
+
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/ntc2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/b2l"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back to home"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

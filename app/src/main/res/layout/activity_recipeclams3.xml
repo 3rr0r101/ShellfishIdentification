@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    tools:context=".Recipeclams3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="415dp"
+            android:layout_height="141dp"
+            app:srcCompat="@drawable/cc"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="414dp"
+            android:layout_height="466dp"
+            android:text="CLAMS CURRY\n
+    Ingredients:\n
+     Measuring cup used 1cup=250ml,1tbsp=5ml\n
+     2 pounds clams\n
+     1 and 1⁄2 cup freshly grated coconut\n
+     2 tbsp coriander seeds\n
+     1 to 2 dried kashmiri chilli\n
+     5-6 peppercorns\n
+     1⁄2 tsp turmeric powder\n
+     1 garlic clove\n
+     1 small onion ,about1/2 cup finely chopped onion\n
+     1 to 2 green chillies, slit lengthwise\n
+     2 tbsp coconut oil/ vegetable oil\n
+     Salt to taste\n
+     Pinch of sugars\n
+    Step1\n
+    Rinse the clams well. fill a bow of water, transfer the clam in it to get rid of any grit or dirt. now clean each
+    clam under running tap water with the help of a brush. repeat with the rest of the clams, transfer to clean
+    plate, place it in the freezer for a few hours. they will open up easily. discard the ones that don’t open. open
+    the clam, retain the meat on one side of the shell. discard the other half. reserve the clam juices you may also
+    used canned clam in this recipe.\n
+    Step2\n
+    In the grinder/mixture, add grated coconut, coriander seeds, peppercorns, kashmiri chilly, garlic, turmeric
+    powder, blend to a semi smooth paste with water(add water little at a time about 1 cup)\n
+    Step3\n
+    Heat oil in a heavy bottomed pan, sauté onions over medium low heat. add chillies, sauté until onions are
+    translucent.\n
+    Step4\n
+    In goes the ground masala paste, cook it for about 2-3 minutes over medium heat.\n
+    Step5\n
+    Add the clams, reserved clam juices, rinse the grinder with about 1⁄2 cup water, add it to the pan.add salt if
+    required a pinch of sugar. let it come to a boil, then let it simmer over low heat until the curry thickens, for
+    about 10 minutes or longer for a dry version."
+
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/ntm1"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="Next"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btc2"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="Back"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

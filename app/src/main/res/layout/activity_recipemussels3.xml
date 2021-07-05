@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    tools:context=".Recipemussels3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="412dp"
+            android:layout_height="154dp"
+            app:srcCompat="@drawable/mp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="409dp"
+            android:layout_height="440dp"
+            android:text="MUSSEL PULAO\n\n
+    Ingredients:\n
+     Mussels 1/2 cup\n
+     Rice soaked for an hour 1 1/2 cups\n
+     Oil 2 tablespoons\n
+     Cinnamon 1/2 inch\n
+     Cloves 3-4\n
+     Black peppercorns 4-5\n
+     Onion chopped 1 medium\n
+     Garlic-ginger-green chilli paste 1 tablespoon\n
+     Turmeric powder 1/2 teaspoon\n
+     Red chilli powder 1 teaspoon\n
+     Sunday masala 1 teaspoon\n
+     Tomato chopped 1 medium\n
+     Salt to taste\n
+     Fresh coriander leaves chopped 1 tablespoon\n\n
+    Step1\n
+    Heat oil in a non-stick pan. Add cinnamon, cloves and peppercorns and sauté for a minute. Add onion, mix and
+    sauté for a minute.\n
+    Step 2\n
+    Add ginger-garlic-green chilli paste, mix and cook for a 30 seconds. Add rice, mix and cook for a minute.\n
+    Step 3\n
+    Add mussels, mix and sauté for a minute. Reduce heat, add turmeric powder, chilli powder and Sunday masala
+    and mix well.\n
+    Step 4\n
+    Add tomato and mix well. Add salt, mix and cook on high heat for 30 seconds. Add 3 cups hot water, mix, cover
+    and cook for 8-10 minutes. Add chopped coriander and mix well.\n
+    Step 5\n
+    Serve hot garnished with a mint sprig and lemon slice"
+
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btm2"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="Back"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btc1"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="Back to start"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

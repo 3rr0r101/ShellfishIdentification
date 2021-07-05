@@ -1,0 +1,324 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\0adcd00a776c973c511ea6c16a116691\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\542d32401de95df7f6685730c93cc116\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ca0b85c892786325b295aaeeaee66b1c\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\aa496c91577ff1554c263f3377b15f24\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0-rc1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\5e4a9decbcf6ecfe1ca19874c20c0baa\jetified-tensorflow-lite-support-0.1.0-rc1\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\2df680881b533006bba7747fd2c14388\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\6330667c6f1775e62210c4a4b8a63bc1\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a176058291670eb774bdcf15938db886\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1e1362ebc1a9126a18963fbedea58894\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\bdc8664792ff36229bee9c08739f174c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\889d483ecdd1d31ba0ec7799c460dcd5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\fb9ca66223512d85140db9a2409efc2a\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a365d98ced1e4980b785d5df42ead553\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\455744faf9bd9ea668b931d32e83a923\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\d2f8d18c5300a11d8686fec09e325796\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\af5a98a2ecf20f855f88f0259fbaff8b\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\e56d0743229ebcff5a928054ef9b8440\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\5d45897709b8d8ae086bb4ce944ae84d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a9ed40d89e1d5fcb863e5dc1e4264517\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a13d865c0c193542a07b4d709aa54843\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8b1dc2b4a74283618c4c9381ba8f3272\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a3b9602b9b2968a60af61a4edf29e07c\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1bd25955ce96ce5b218ee90b953c67ca\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ed6d03f965ef634e7489873a93843d2b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\45c0135a88283b56203d403fbbf8c1c7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\81060de9b0f7a4a054a3df37ad65e6d6\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a6aff919553503c9bb14ee0c45be3f2d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\31c31b42cad3707be1b6138287ddba81\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\67736ddb7c2f123eebe4015572e6d93c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1277fcaca9f4b5980a804bfbd0f19965\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1d443837d3e21973b7cd8889a476f4e7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a51b81f96b430b600f0ed3d03560d7d6\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\56a2cb99f05ba987b8e52760e2cc1a9a\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\7b6301ea858f79b885ddce9c933c78b1\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8e6ab0e9bfaa2ccba76423184000bd0b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\7772eeeb65773a5bd12d5747055cdd38\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\4c3ccde9636e65e36e3dd786b3594e18\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\0f465c35f8eee873b467ec2cc710f068\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\faf73b50d04f7b214a922bd444ec6bf2\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8f025d0133a19f19323c56ab67c8ecc3\jetified-tensorflow-lite-2.2.0\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:10:5-75:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\542d32401de95df7f6685730c93cc116\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\542d32401de95df7f6685730c93cc116\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ca0b85c892786325b295aaeeaee66b1c\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ca0b85c892786325b295aaeeaee66b1c\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\6330667c6f1775e62210c4a4b8a63bc1\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\6330667c6f1775e62210c4a4b8a63bc1\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\31c31b42cad3707be1b6138287ddba81\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\31c31b42cad3707be1b6138287ddba81\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8f025d0133a19f19323c56ab67c8ecc3\jetified-tensorflow-lite-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8f025d0133a19f19323c56ab67c8ecc3\jetified-tensorflow-lite-2.2.0\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:17:9-61
+	android:networkSecurityConfig
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:14:9-69
+	android:usesCleartextTraffic
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:18:9-44
+activity#com.example.shellfishidentification.WebApp
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:19:9-22:89
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:22:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:20:13-35
+activity#com.example.shellfishidentification.ImageCaptureNPrediction
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.example.shellfishidentification.HBMussels
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:24:9-27:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:27:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:25:13-38
+activity#com.example.shellfishidentification.HBclams
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:28:9-31:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:31:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:29:13-36
+activity#com.example.shellfishidentification.Recipemussels3
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:32:9-35:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:35:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.example.shellfishidentification.Recipemussels2
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:36:9-39:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:37:13-43
+activity#com.example.shellfishidentification.Recipemussels1
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:40:9-43:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:41:13-43
+activity#com.example.shellfishidentification.Recipeclams3
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:44:9-47:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:46:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:47:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:45:13-41
+activity#com.example.shellfishidentification.Recipeclams2
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:48:9-51:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:51:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:49:13-41
+activity#com.example.shellfishidentification.recipeclams1
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:52:9-55:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:54:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:55:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:53:13-41
+activity#com.example.shellfishidentification.Nutrients2
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:56:9-59:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:58:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:59:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:57:13-39
+activity#com.example.shellfishidentification.Nutrients
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:60:9-63:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:63:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:61:13-38
+activity#com.example.shellfishidentification.ListActivity
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:64:9-67:80
+	android:label
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:66:13-45
+	android:theme
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:67:13-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:65:13-41
+activity#com.example.shellfishidentification.MainActivity
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:68:9-74:20
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:68:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:72:27-74
+uses-sdk
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\0adcd00a776c973c511ea6c16a116691\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\0adcd00a776c973c511ea6c16a116691\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\542d32401de95df7f6685730c93cc116\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\542d32401de95df7f6685730c93cc116\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ca0b85c892786325b295aaeeaee66b1c\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ca0b85c892786325b295aaeeaee66b1c\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\aa496c91577ff1554c263f3377b15f24\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\aa496c91577ff1554c263f3377b15f24\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0-rc1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\5e4a9decbcf6ecfe1ca19874c20c0baa\jetified-tensorflow-lite-support-0.1.0-rc1\AndroidManifest.xml:4:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0-rc1] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\5e4a9decbcf6ecfe1ca19874c20c0baa\jetified-tensorflow-lite-support-0.1.0-rc1\AndroidManifest.xml:4:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\2df680881b533006bba7747fd2c14388\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\2df680881b533006bba7747fd2c14388\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\6330667c6f1775e62210c4a4b8a63bc1\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\6330667c6f1775e62210c4a4b8a63bc1\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a176058291670eb774bdcf15938db886\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a176058291670eb774bdcf15938db886\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1e1362ebc1a9126a18963fbedea58894\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1e1362ebc1a9126a18963fbedea58894\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\bdc8664792ff36229bee9c08739f174c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\bdc8664792ff36229bee9c08739f174c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\889d483ecdd1d31ba0ec7799c460dcd5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\889d483ecdd1d31ba0ec7799c460dcd5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\fb9ca66223512d85140db9a2409efc2a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\fb9ca66223512d85140db9a2409efc2a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a365d98ced1e4980b785d5df42ead553\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a365d98ced1e4980b785d5df42ead553\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\455744faf9bd9ea668b931d32e83a923\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\455744faf9bd9ea668b931d32e83a923\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\d2f8d18c5300a11d8686fec09e325796\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\d2f8d18c5300a11d8686fec09e325796\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\af5a98a2ecf20f855f88f0259fbaff8b\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\af5a98a2ecf20f855f88f0259fbaff8b\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\e56d0743229ebcff5a928054ef9b8440\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\e56d0743229ebcff5a928054ef9b8440\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\5d45897709b8d8ae086bb4ce944ae84d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\5d45897709b8d8ae086bb4ce944ae84d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a9ed40d89e1d5fcb863e5dc1e4264517\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a9ed40d89e1d5fcb863e5dc1e4264517\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a13d865c0c193542a07b4d709aa54843\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a13d865c0c193542a07b4d709aa54843\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8b1dc2b4a74283618c4c9381ba8f3272\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8b1dc2b4a74283618c4c9381ba8f3272\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a3b9602b9b2968a60af61a4edf29e07c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a3b9602b9b2968a60af61a4edf29e07c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1bd25955ce96ce5b218ee90b953c67ca\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1bd25955ce96ce5b218ee90b953c67ca\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ed6d03f965ef634e7489873a93843d2b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ed6d03f965ef634e7489873a93843d2b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\45c0135a88283b56203d403fbbf8c1c7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\45c0135a88283b56203d403fbbf8c1c7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\81060de9b0f7a4a054a3df37ad65e6d6\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\81060de9b0f7a4a054a3df37ad65e6d6\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a6aff919553503c9bb14ee0c45be3f2d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a6aff919553503c9bb14ee0c45be3f2d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\31c31b42cad3707be1b6138287ddba81\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\31c31b42cad3707be1b6138287ddba81\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\67736ddb7c2f123eebe4015572e6d93c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\67736ddb7c2f123eebe4015572e6d93c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1277fcaca9f4b5980a804bfbd0f19965\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1277fcaca9f4b5980a804bfbd0f19965\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1d443837d3e21973b7cd8889a476f4e7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\1d443837d3e21973b7cd8889a476f4e7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a51b81f96b430b600f0ed3d03560d7d6\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\a51b81f96b430b600f0ed3d03560d7d6\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\56a2cb99f05ba987b8e52760e2cc1a9a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\56a2cb99f05ba987b8e52760e2cc1a9a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\7b6301ea858f79b885ddce9c933c78b1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\7b6301ea858f79b885ddce9c933c78b1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8e6ab0e9bfaa2ccba76423184000bd0b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8e6ab0e9bfaa2ccba76423184000bd0b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\7772eeeb65773a5bd12d5747055cdd38\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\7772eeeb65773a5bd12d5747055cdd38\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\4c3ccde9636e65e36e3dd786b3594e18\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\4c3ccde9636e65e36e3dd786b3594e18\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\0f465c35f8eee873b467ec2cc710f068\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\0f465c35f8eee873b467ec2cc710f068\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\faf73b50d04f7b214a922bd444ec6bf2\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\faf73b50d04f7b214a922bd444ec6bf2\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8f025d0133a19f19323c56ab67c8ecc3\jetified-tensorflow-lite-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\8f025d0133a19f19323c56ab67c8ecc3\jetified-tensorflow-lite-2.2.0\AndroidManifest.xml:7:5-8:41
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml

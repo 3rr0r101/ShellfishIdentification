@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- below tag shows us how the layout of the app is going to be. -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    tools:context=".HBclams">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="527dp"
+            android:layout_height="290dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/chb"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="408dp"
+            android:layout_height="18dp"
+            android:text="Health Benefits of Clams\n\n"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="425dp"
+            android:layout_height="253dp"
+            android:text="
+        • Helps to Regulate Blood Pressure.\n\n
+        • Great for Thyroid Health.\n\n
+        • Promote Heart Health.\n\n
+        • Rich in Riboflavin.\n\n
+        • Excellent source of Choline.\n\n
+        • Prevent RA (Rheumatoid Arthritis).\n\n
+        • Great for Collagen Synthesis.\n\n
+        • Great for Male’s fertility."
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

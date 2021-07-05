@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- below tag shows us how the layout of the app is going to be. -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    tools:context=".HBMussels">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="410dp"
+            android:layout_height="314dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/mhb"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="408dp"
+            android:layout_height="18dp"
+            android:text="Health Benefits of Mussels\n\n"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="412dp"
+            android:layout_height="250dp"
+            android:text=" Promotes Healthy Cellular Function.\n\n
+     Reduce Arthritis.\n\n
+     Improve Brain Health.\n\n
+     Promote Heart Health.\n\n
+     Helps Prevent Anemia.\n\n
+     Helps the Circulatory System.\n\n
+     Have Anti-Aging Properties.\n\n
+     Helps Strengthen Teeth, Ligaments and Tendons."
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back to Start"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,163 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.shellfishidentification"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:8:5-65
+14-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:8:22-62
+15
+16    <application
+16-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:10:5-75:19
+17        android:allowBackup="true"
+17-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.2] C:\Users\gaura\.gradle\caches\transforms-2\files-2.1\ab930a419dccefb70c02bfc436129fa5\core-1.3.2\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:13:9-41
+22        android:networkSecurityConfig="@xml/network_security_config"
+22-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:14:9-69
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.ShellfishIdentification"
+26-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:17:9-61
+27        android:usesCleartextTraffic="true" >
+27-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:18:9-44
+28        <activity
+28-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:19:9-22:89
+29            android:name="com.example.shellfishidentification.WebApp"
+29-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:20:13-35
+30            android:label="@string/app_name"
+30-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:21:13-45
+31            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+31-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:22:13-77
+32        <activity android:name="com.example.shellfishidentification.ImageCaptureNPrediction" />
+32-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:23:9-61
+32-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:23:19-58
+33        <activity
+33-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:24:9-27:80
+34            android:name="com.example.shellfishidentification.HBMussels"
+34-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:25:13-38
+35            android:label="@string/app_name"
+35-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:26:13-45
+36            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+36-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:27:13-77
+37        <activity
+37-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:28:9-31:80
+38            android:name="com.example.shellfishidentification.HBclams"
+38-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:29:13-36
+39            android:label="@string/app_name"
+39-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:30:13-45
+40            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+40-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:31:13-77
+41        <activity
+41-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:32:9-35:80
+42            android:name="com.example.shellfishidentification.Recipemussels3"
+42-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:33:13-43
+43            android:label="@string/app_name"
+43-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:34:13-45
+44            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+44-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:35:13-77
+45        <activity
+45-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:36:9-39:80
+46            android:name="com.example.shellfishidentification.Recipemussels2"
+46-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:37:13-43
+47            android:label="@string/app_name"
+47-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:38:13-45
+48            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+48-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:39:13-77
+49        <activity
+49-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:40:9-43:80
+50            android:name="com.example.shellfishidentification.Recipemussels1"
+50-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:41:13-43
+51            android:label="@string/app_name"
+51-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:42:13-45
+52            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+52-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:43:13-77
+53        <activity
+53-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:44:9-47:80
+54            android:name="com.example.shellfishidentification.Recipeclams3"
+54-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:45:13-41
+55            android:label="@string/app_name"
+55-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:46:13-45
+56            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+56-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:47:13-77
+57        <activity
+57-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:48:9-51:80
+58            android:name="com.example.shellfishidentification.Recipeclams2"
+58-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:49:13-41
+59            android:label="@string/app_name"
+59-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:50:13-45
+60            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+60-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:51:13-77
+61        <activity
+61-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:52:9-55:80
+62            android:name="com.example.shellfishidentification.recipeclams1"
+62-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:53:13-41
+63            android:label="@string/app_name"
+63-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:54:13-45
+64            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+64-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:55:13-77
+65        <activity
+65-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:56:9-59:80
+66            android:name="com.example.shellfishidentification.Nutrients2"
+66-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:57:13-39
+67            android:label="@string/app_name"
+67-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:58:13-45
+68            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+68-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:59:13-77
+69        <activity
+69-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:60:9-63:80
+70            android:name="com.example.shellfishidentification.Nutrients"
+70-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:61:13-38
+71            android:label="@string/app_name"
+71-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:62:13-45
+72            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" /> <!-- <activity android:name=".Result"></activity> -->
+72-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:63:13-77
+73        <activity
+73-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:64:9-67:80
+74            android:name="com.example.shellfishidentification.ListActivity"
+74-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:65:13-41
+75            android:label="@string/app_name"
+75-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:66:13-45
+76            android:theme="@style/Theme.ShellfishIdentification.NoActionBar" />
+76-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:67:13-77
+77        <activity android:name="com.example.shellfishidentification.MainActivity" >
+77-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:68:9-74:20
+77-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:68:19-47
+78            <intent-filter>
+78-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:69:13-73:29
+79                <action android:name="android.intent.action.MAIN" />
+79-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:70:17-69
+79-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:70:25-66
+80
+81                <category android:name="android.intent.category.LAUNCHER" />
+81-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:72:17-77
+81-->C:\Users\gaura\OneDrive\Desktop\Study\BE_Project\ShellfishIdentification 2\app\src\main\AndroidManifest.xml:72:27-74
+82            </intent-filter>
+83        </activity>
+84    </application>
+85
+86</manifest>
