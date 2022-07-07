@@ -1,7 +1,7 @@
 # ShellfishIdentification
 Final Yeat BE Project (Don Bosco College Of Engineering under Goa University)
 
-git clone https://github.com/3rr0r101/ShellfishIdentification-2 
+git clonehttps://github.com/3rr0r101/ShellfishIdentification
 
 Contains all the files of android app which provides an User Interface and also some operational functions for Shellfish Identification
 
