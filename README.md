@@ -1,4 +1,4 @@
-# ShellfishIdentification-2
+# ShellfishIdentification
 Final Yeat BE Project (Don Bosco College Of Engineering under Goa University)
 
 git clone https://github.com/3rr0r101/ShellfishIdentification-2 
